@@ -17,7 +17,7 @@ brew install ruby
 There are some dependecies required for this to work, to install please type:
 
 ```
-gem install bunlder
+gem install bundler
 
 bundle install
 ```
