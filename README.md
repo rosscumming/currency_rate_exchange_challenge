@@ -67,7 +67,7 @@ CurrencyExchange.rate(Date.new(2020, 11, 22), 'USD', 'GBP')
 
 ## Your Design Decisions
 
-Due to time constraints, there is a lot i would change and like to have implemented into this app. All logic is currently handlded within the rate method which with more time, id ensure more single responsibility was adhered to and split into their own methods.
+Due to time constraints, there is a lot i would change and like to have implemented into this app. All logic is currently handled within the rate method which with more time, id ensure more single responsibility was adhered to and split into their own methods.
 
 I wanted to try out RSpec as with using Ruby, the only testing framework I've had use of is Minitest. I really enjoyed the syntax and readability that RSpec has to offer.
 
